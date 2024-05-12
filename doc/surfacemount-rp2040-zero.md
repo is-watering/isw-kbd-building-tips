@@ -1,4 +1,4 @@
-# Soldering RP2040-Zero
+# Surface Mount Soldering RP2040-Zero
 
 Place the RP2040-Zero in line with the PCB recess and temporarily fix it with pin headers.  
 <img src="../img/soldering-rp2040-zero_01.jpg" width="80%">
